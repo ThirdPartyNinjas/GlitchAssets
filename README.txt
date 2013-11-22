@@ -13,9 +13,7 @@ The repository contains:
  * Player Houses  
 
 It does not contain:  
- * Inhabitants
-
-The exported Inhabitants folder is enormous, and I will upload it to another repo.
+ * Inhabitants - Check here: https://github.com/ThirdPartyNinjas/GlitchAssets-Inhabitants
 
 Conversion process:  
 I wrote three scripts that run inside of Flash (I used Adobe Flash Professional CC).
